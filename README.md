@@ -10,7 +10,7 @@ I am an **Agricultural Economics graduate** who's passionate about all things da
 PAT_1
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moses-stack-art&show_icons=true&theme=radical)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moses-stack-art&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-stack-art)](https://github.com/Moses-stack-art/github-readme-stats)
 
 
 
