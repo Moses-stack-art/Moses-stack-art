@@ -9,6 +9,14 @@ I am an **Agricultural Economics graduate** who's passionate about all things da
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moses-stack-art&hide=contribs,prs)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moses-stack-art&show_icons=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moses-stack-art&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-stack-art)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Moses-stack-art/Moses-stack-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
