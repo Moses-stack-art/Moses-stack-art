@@ -16,6 +16,7 @@ I am an **Agricultural Economics graduate** who's passionate about all things da
 ![](https://komarev.com/ghpvc/?username=Moses-stack-art&color=blue)
 ![](https://www.codewars.com/users/Moses-stack-art/badges/small)
 <br />
+---
 
 ### Languages and Tools
 
