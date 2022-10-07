@@ -12,7 +12,10 @@ I am an **Agricultural Economics graduate** who's passionate about all things da
 <br />
 
 ---
-
+[![wakatime](https://wakatime.com/badge/user/f5e0ae39-026a-48dd-9f02-dbc0ccb66f37.svg)](https://wakatime.com/@f5e0ae39-026a-48dd-9f02-dbc0ccb66f37)
+![](https://komarev.com/ghpvc/?username=Moses-stack-art&color=blue)
+![](https://www.codewars.com/users/Moses-stack-art/badges/small)
+<br />
 
 ### Languages and Tools
 
