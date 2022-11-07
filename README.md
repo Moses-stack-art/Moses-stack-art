@@ -2,12 +2,11 @@
 
 **Hi there 👋 My name is Moses!** :sunglasses: An enthusiastic young man with the resolve of a mountain goat :goat: and the vision of an eagle 🦅.
 
-I am an **Agricultural Economics graduate** who's passionate about all things data-related, including, but not limited to, data collection, analysis, modeling, and forecasting. 
+I am an **Agricultural Economics graduate** who's passionate about all things data-related, including, but not limited to, data collection, preparation, analysis, modeling, and forecasting. 
 
 
 >**Vision:** To use my expertise as a resource to develop innovative solutions to organizational problems.
 >
->>**Motto:** Go Big or Go Home, Never back down, and when you have to fall, don't fall back, fall forward
 <br />
 <br />
 
