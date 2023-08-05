@@ -1,14 +1,7 @@
-### Introduction
 
-**Hi there 👋 My name is Moses!** :sunglasses: An enthusiastic young man with the resolve of a mountain goat :goat: and the vision of an eagle 🦅.
-
-I am an **Agricultural Economics graduate** who's passionate about all things data-related, including, but not limited to, data collection, preparation, analysis, modeling, and forecasting. 
+🌾 Agricultural Economist by profession, AI & ML enthusiast by passion 🚀 | Cultivating innovative solutions with the power of code 💻 | Harvesting valuable insights from vast datasets 📊 | Sowing the seeds of Machine Learning for a sustainable future 🌱 | Growing my skills, one algorithm at a time 📈 | Join me on this data-driven odyssey to make the world smarter 🌐
 
 
->**Vision:** To use my expertise as a resource to develop innovative solutions to organizational problems.
->
-<br />
-<br />
 
 ---
 [![wakatime](https://wakatime.com/badge/user/f5e0ae39-026a-48dd-9f02-dbc0ccb66f37.svg)](https://wakatime.com/@f5e0ae39-026a-48dd-9f02-dbc0ccb66f37)
