@@ -1,5 +1,5 @@
 
-🌾 Agricultural Economist by profession, AI & ML enthusiast by passion 🚀 | Cultivating innovative solutions with the power of code 💻 | Harvesting valuable insights from vast datasets 📊 | Sowing the seeds of Machine Learning for a sustainable future 🌱 | Growing my skills, one algorithm at a time 📈 | Join me on this data-driven odyssey to make the world smarter 🌐
+Hey, I'm Moses, your data enthusiast! 📊 On a quest to master AI & ML—because who doesn't want to teach machines to think, right? Let's dive into the data wonderland and cook up some code magic! 🚀🔥
 
 
 
